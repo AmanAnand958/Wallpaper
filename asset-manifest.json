@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wallpaper/static/css/main.c904579c.css",
+    "main.js": "/Wallpaper/static/js/main.4de7e5a1.js",
+    "index.html": "/Wallpaper/index.html",
+    "main.c904579c.css.map": "/Wallpaper/static/css/main.c904579c.css.map",
+    "main.4de7e5a1.js.map": "/Wallpaper/static/js/main.4de7e5a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c904579c.css",
+    "static/js/main.4de7e5a1.js"
+  ]
+}
